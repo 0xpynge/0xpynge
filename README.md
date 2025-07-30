@@ -17,7 +17,7 @@
 
 ## 🔍 Who Am I?
 
-I'm an early-career **Cybersecurity Analyst** with a passion for ethical hacking, network design, and Linux environments. I thrive on hands-on labs, troubleshooting systems, and breaking things to understand how to fix them. Currently exploring more offensive security while sharpening my blue-team skills.
+I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cybersecurity, and system troubleshooting. Experienced in PC hardware, Linux environments, and offensive/defensive security labs. Passionate about deepening expertise in cybersecurity through academic study, certifications, and practical lab work.
 
 ---
 
