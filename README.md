@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=440&lines=Network+Engineer;Cybersecurity+Enthusiast;Aspiring+Blue+Teamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=440&lines=Cybersecurity+Enthusiast;Network+Engineer+%2F+CCNA+Certified;Linux+and+Terminal+Lover;Offensive+Security+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,13 +25,11 @@ I'm an early-career **Cybersecurity Analyst** with a passion for ethical hacking
 
 | 🔧 Category | 💻 Tools & Platforms |
 |------------|----------------------|
-| **Operating Systems & CLI** | 🐧 Kali Linux, Parrot OS, Ubuntu, Linux Mint, 🖥️ Windows, ⚙️ Bash |
-| **Networking & Protocols** | 🌐 Cisco IOS (VLANs, STP, OSPF, EIGRP), 📡 Packet Tracer, 🔌 NAT, ACLs |
-| **Recon & Scanning** | 🔍 Nmap, 🧮 Wireshark, 🛰️ Netdiscover, 🛠️ tcpdump, 🗂️ Gobuster |
-| **Web Application Security** | 🛡️ Burp Suite, 🕷️ OWASP DVWA, 🔥 Safeline WAF, 🔎 Nikto |
-| **Exploitation & Cracking** | 🎯 Metasploit, 🧪 SQLMap, 🔓 Hydra, 🧠 JohnTheRipper, 🧨 XSS & SQLi scripts |
-| **Defensive & Monitoring** | 🛡️ Phishing Simulations, 🛑 WAF Behavior Analysis, 📊 Splunk, 🧩 Wazuh |
-| **Lab & Development Tools** | 📦 VirtualBox, 🧪 Cisco Packet Tracer, 👨‍💻 VS Code, 🗃️ GitHub, 📁 Git |
+| **OS & Terminals** | 🐧 Linux (Kali, Parrot, Ubuntu), 🖥️ Windows, ⚙️ Bash |
+| **Networking** | 🌐 Cisco IOS, 🧮 Wireshark, 🔍 Nmap, 📡 Packet Tracer |
+| **Web Security** | 🛡️ Burp Suite, 🕸️ DVWA, 🔥 Safeline WAF |
+| **Exploitation** | 🎯 Metasploit, 🧪 SQLMap, 🔓 Hydra, 🧠 JohnTheRipper, 🗂️ Gobuster |
+| **Lab & Dev Tools** | 📦 VirtualBox, 👨‍💻 VS Code, 🗃️ GitHub |
 
 ---
 
@@ -72,7 +70,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <a href="https://tryhackme.com/p/pynge" target="_blank">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4649833" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe">
   </a>
 </p>
 
@@ -88,7 +86,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
   </a>
 </p>
 
