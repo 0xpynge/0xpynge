@@ -72,7 +72,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <a href="https://tryhackme.com/p/pynge" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4649833" style='border:none;'></iframe>
   </a>
 </p>
 
