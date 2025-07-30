@@ -72,15 +72,15 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <a href="https://tryhackme.com/p/pynge" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="Your Image Badge" />
+    <img src="https://img.shields.io/badge/TryHackMe%20Profile-pynge-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/pynge" target="_blank">
-    <img alt="View TryHackMe Profile" src="https://img.shields.io/badge/🔗%20View%20Full%20Profile-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe Static Badge (May not be real-time)">
 </p>
+
+<p align="center"><i>Note: Badge image may not auto-update. Click above for live stats.</i></p>
 
 ---
 
