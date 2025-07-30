@@ -33,6 +33,7 @@ I'm an early-career **Cybersecurity Analyst** with a passion for ethical hacking
 | **Defensive & Monitoring** | 🛡️ Phishing Simulations, 🛑 WAF Behavior Analysis, 📊 Splunk, 🧩 Wazuh |
 | **Lab & Development Tools** | 📦 VirtualBox, 🧪 Cisco Packet Tracer, 👨‍💻 VS Code, 🗃️ GitHub, 📁 Git |
 
+---
 
 ## 🛠️ Featured Projects
 
