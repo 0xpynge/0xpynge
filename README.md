@@ -25,11 +25,13 @@ I'm an early-career **Cybersecurity Analyst** with a passion for ethical hacking
 
 | 🔧 Category | 💻 Tools & Platforms |
 |------------|----------------------|
-| **OS & Terminals** | 🐧 Linux (Kali, Parrot, Ubuntu), 🖥️ Windows, ⚙️ Bash |
-| **Networking** | 🌐 Cisco IOS, 🧮 Wireshark, 🔍 Nmap, 📡 Packet Tracer |
-| **Web Security** | 🛡️ Burp Suite, 🕸️ DVWA, 🔥 Safeline WAF |
-| **Exploitation** | 🎯 Metasploit, 🧪 SQLMap, 🔓 Hydra, 🧠 JohnTheRipper, 🗂️ Gobuster |
-| **Lab & Dev Tools** | 📦 VirtualBox, 👨‍💻 VS Code, 🗃️ GitHub |
+| **Operating Systems & CLI** | 🐧 Kali Linux, Parrot OS, Ubuntu, Linux Mint, 🖥️ Windows, ⚙️ Bash |
+| **Networking & Protocols** | 🌐 Cisco IOS (VLANs, STP, OSPF, EIGRP), 📡 Packet Tracer, 🔌 NAT, ACLs |
+| **Recon & Scanning** | 🔍 Nmap, 🧮 Wireshark, 🛰️ Netdiscover, 🛠️ tcpdump, 🗂️ Gobuster |
+| **Web Application Security** | 🛡️ Burp Suite, 🕷️ OWASP DVWA, 🔥 Safeline WAF, 🔎 Nikto |
+| **Exploitation & Cracking** | 🎯 Metasploit, 🧪 SQLMap, 🔓 Hydra, 🧠 JohnTheRipper, 🧨 XSS & SQLi scripts |
+| **Defensive & Monitoring** | 🛡️ Phishing Simulations, 🛑 WAF Behavior Analysis, 📊 Splunk, 🧩 Wazuh |
+| **Lab & Development Tools** | 📦 VirtualBox, 🧪 Cisco Packet Tracer, 👨‍💻 VS Code, 🗃️ GitHub, 📁 Git |
 
 ---
 
