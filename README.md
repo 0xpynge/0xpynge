@@ -94,4 +94,4 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 ---
 
-> _"Security is not a product, but a process."_
+> _"Control is an illusion."_
