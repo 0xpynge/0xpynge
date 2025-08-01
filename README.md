@@ -77,7 +77,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 </p>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe Static Badge (May not be real-time)">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe Static Badge (May not be real-time)" />
 </p>
 
 <p align="center"><i>Note: Badge image may not auto-update. Click above for live stats.</i></p>
