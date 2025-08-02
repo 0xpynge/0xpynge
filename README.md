@@ -75,13 +75,13 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 ## 🧠 TryHackMe Stats
 
 <p align="center">
-  <a href="https://tryhackme.com/p/pynge" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe%20Profile-pynge-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/0xpynge" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe%20Profile-0xpynge-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe Static Badge (May not be real-time)" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpynge.png" alt="Your Image Badge" />
 </p>
 
 <p align="center"><i>Note: Badge image may not auto-update. Click above for live stats.</i></p>
