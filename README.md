@@ -25,7 +25,7 @@ I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cyb
 
 <p align="center">
   <a href="http://0xpynge.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0xpynge.github.io-orange?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
 
