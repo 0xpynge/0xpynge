@@ -63,7 +63,8 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 ## 📜 Certifications Snapshot
 
-- 🎓 CCNA – Cisco Certified Network Associate  
+- 🎓 CCNA – Cisco Certified Network Associate
+- 🔧 CCST - Cisco Certified Support Technician
 - 🕵️ TryHackMe – Jr. Penetration Tester & Cyber Security 101  
 - 🧪 Mastercard – Cybersecurity Simulation  
 - 🛠️ Cisco – IT Essentials & Linux Essentials  
