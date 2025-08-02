@@ -19,17 +19,11 @@
 
 I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cybersecurity, and system troubleshooting. Experienced in PC hardware, Linux environments, and offensive/defensive security labs. Passionate about deepening expertise in cybersecurity through academic study, certifications, and practical lab work.
 
-
-
-## 🚀 Portfolio
-
 <p align="center">
   <a href="http://0xpynge.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0xpynge.github.io-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Portfolio-0xpynge.github.io-000?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
-
-
 
 ## 🧰 My Cyber Arsenal
 
