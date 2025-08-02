@@ -21,6 +21,16 @@ I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cyb
 
 ---
 
+## 🚀 Portfolio
+
+<p align="center">
+  <a href="http://0xpynge.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
+  </a>
+</p>
+
+---
+
 ## 🧰 My Cyber Arsenal
 
 | 🔧 Category | 💻 Tools & Platforms |
