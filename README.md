@@ -105,4 +105,9 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r4n1-exe&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+
 > _"Control is an illusion."_
