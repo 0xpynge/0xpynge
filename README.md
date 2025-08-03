@@ -44,10 +44,10 @@ I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cyb
 ### 🎯 Phishing Awareness Simulator  
 Developed a phishing simulation page to demonstrate social engineering tactics in a safe, educational setup.
 
-- 🔐 Built a realistic login interface (HTML/CSS) to simulate credential harvesting  
-- 📡 Captured user metadata (IP, browser, screen resolution) for training purposes  
-- 🤖 Sent real-time alerts via Telegram Bot API  
-- 🌐 Deployed on GitHub Pages for public accessibility  
+-  Built a realistic login interface (HTML/CSS) to simulate credential harvesting  
+-  Captured user metadata (IP, browser, screen resolution) for training purposes  
+-  Sent real-time alerts via Telegram Bot API  
+-  Deployed on GitHub Pages for public accessibility  
 
 👉 [Live Demo](https://0xpynge.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html)  
 
@@ -62,7 +62,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - Voice VLANs and trunk security  
 - Remote switch access via SSH and a dedicated management VLAN  
 
-🔗 [View Layer 2 Switching Lab on GitHub](https://github.com/r4n1-exe/ccna-layer2-switching-lab)
+🔗 [View on GitHub](https://github.com/r4n1-exe/ccna-layer2-switching-lab)
 
 ---
 
