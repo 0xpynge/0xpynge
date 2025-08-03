@@ -68,7 +68,8 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - 🕵️ TryHackMe – Jr. Penetration Tester   
 - 🧪 Mastercard – Cybersecurity Simulation  
 - 🛠️ Cisco – IT Essentials & Linux Essentials  
-- 🧠 arcX – Threat Intelligence 101  
+- 🧠 arcX – Threat Intelligence 101
+- 🥷 Cisco - Ethical Hacker
 - 👨‍💻 Semicolon Academy – Ethical Hacking Foundation  
 
 ---
