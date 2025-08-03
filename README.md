@@ -50,6 +50,7 @@ Developed a phishing simulation page to demonstrate social engineering tactics i
 - 🌐 Deployed on GitHub Pages for public accessibility  
 
 👉 [Live Demo](https://0xpynge.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html)  
+
 ⚠️ *Educational only. No real services or data targeted.*
 
 ---
