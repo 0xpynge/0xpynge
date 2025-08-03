@@ -41,12 +41,16 @@ I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cyb
 
 ## 🛠️ Featured Projects
 
-### 🔧 Web Application Security Lab  
-A self-hosted lab using **Kali Linux** and **Ubuntu + DVWA + Safeline WAF** to simulate real-world attacks and test detection & mitigation strategies.
+### 🎯 Phishing Awareness Simulator  
+Developed a phishing simulation page to demonstrate social engineering tactics in a safe, educational setup.
 
-- Simulated attacks: SQL Injection (SQLi), Cross-Site Scripting (XSS), HTTP Flooding  
-- Integrated a Web Application Firewall to analyze & document blocked vs allowed traffic  
-- Built entirely in VirtualBox for portable lab access
+- 🔐 Built a realistic login interface (HTML/CSS) to simulate credential harvesting  
+- 📡 Captured user metadata (IP, browser, screen resolution) for training purposes  
+- 🤖 Sent real-time alerts via Telegram Bot API  
+- 🌐 Deployed on GitHub Pages for public accessibility  
+
+👉 [Live Demo](https://0xpynge.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html)  
+⚠️ *Educational only. No real services or data targeted.*
 
 ---
 
