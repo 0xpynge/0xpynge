@@ -104,7 +104,9 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 </p>
 
 ---
- 
+ <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=0xpynge&style=flat&color=4010B0" height="25"/>
+  </p>
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
   </p>
