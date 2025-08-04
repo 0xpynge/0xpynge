@@ -105,4 +105,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 ---
 
-> _"Control is an illusion."_
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
+
