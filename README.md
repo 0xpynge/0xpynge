@@ -14,7 +14,9 @@
 </p>
 
 ---
-
+ <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=0xpynge&style=flat&color=4010B0" height="25"/>
+  </p>
 ## 🔍 Who Am I?
 
 I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cybersecurity, and system troubleshooting. Experienced in PC hardware, Linux environments, and offensive/defensive security labs. Passionate about deepening expertise in cybersecurity through academic study, certifications, and practical lab work.
