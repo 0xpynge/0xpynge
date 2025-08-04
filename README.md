@@ -14,9 +14,7 @@
 </p>
 
 ---
- <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=0xpynge&style=flat&color=4010B0" height="25"/>
-  </p>
+ 
 ## 🔍 Who Am I?
 
 I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cybersecurity, and system troubleshooting. Experienced in PC hardware, Linux environments, and offensive/defensive security labs. Passionate about deepening expertise in cybersecurity through academic study, certifications, and practical lab work.
@@ -106,7 +104,9 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 </p>
 
 ---
-
+ <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=0xpynge&style=flat&color=4010B0" height="25"/>
+  </p>
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
   </p>
