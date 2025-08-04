@@ -44,7 +44,7 @@ I'm an Aspiring Cybersecurity Analyst with a solid foundation in networking, cyb
 ### 🎯 Phishing Awareness Simulator  
 Developed a phishing simulation page to demonstrate social engineering tactics in a safe, educational setup.
 
--  Built a realistic login interface (HTML/CSS) to simulate credential harvesting  
+-  Deployed a realistic login interface (HTML/CSS) to simulate credential harvesting  
 -  Captured user metadata (IP, browser, screen resolution) for training purposes  
 -  Sent real-time alerts via Telegram Bot API  
 -  Deployed on GitHub Pages for public accessibility  
