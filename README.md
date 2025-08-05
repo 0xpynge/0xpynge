@@ -88,7 +88,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 </p>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpynge.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpynge.png" alt="Your Badge" />
 
 </p>
 
