@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey there, I'm Rani Kamaleddine!
 </h1>
@@ -51,7 +50,7 @@ Developed a phishing simulation page to demonstrate social engineering tactics i
 
 👉 [Live Demo](https://0xpynge.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html)  
 
-⚠️ *Educational only. No real services or data targeted.*
+⚠️ *Educational purposes only. No real services or data targeted.*
 
 ---
 
