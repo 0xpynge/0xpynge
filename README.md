@@ -57,9 +57,10 @@ Developed a phishing simulation page to demonstrate social engineering tactics i
 ### 🧩 Enterprise Switching Lab – CCNA Level  
 A full-fledged Cisco Packet Tracer simulation featuring:
 
-- VLAN segmentation, inter-VLAN routing, STP, EtherChannel  
-- Voice VLANs and trunk security  
-- Remote switch access via SSH and a dedicated management VLAN  
+- Designed and simulated a realistic enterprise campus network to reinforce CCNA-level switching concepts.
+- Implemented VLAN segmentation for users, servers, and management; centralized VLAN management using VTP; configured Voice VLANs for IP phones.
+- Configured Spanning Tree Protocol (STP) to ensure redundancy and prevent loops; deployed LACP-based EtherChannel for link aggregation.
+- Enabled inter-VLAN routing on a multilayer core switch serving as the default gateway; secured trunk ports by restricting them to specific VLANs; enabled remote switch management via SSH on a dedicated management VLAN.
 
 🔗 [View on GitHub](https://github.com/r4n1-exe/ccna-layer2-switching-lab)
 
