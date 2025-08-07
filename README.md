@@ -104,6 +104,12 @@ A full-fledged Cisco Packet Tracer simulation featuring:
   </a>
 </p>
 
+## 📢 Join Our WhatsApp Channel
+
+Stay updated with our latest news and updates via WhatsApp!
+
+[![Join on WhatsApp](https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5jzAG8qIzjWltFjh2W)
+
 ---
  <p align="center">
       <img src="https://komarev.com/ghpvc/?username=0xpynge&style=flat&color=4010B0" height="25"/>
