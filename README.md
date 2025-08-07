@@ -108,7 +108,11 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 Stay updated with our latest news and updates via WhatsApp!
 
-[![Join on WhatsApp](https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5jzAG8qIzjWltFjh2W)
+<div align="center">
+  <a href="https://whatsapp.com/channel/1234567890abcdef">
+    <img src="https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Join on WhatsApp">
+  </a>
+</div>
 
 ---
  <p align="center">
