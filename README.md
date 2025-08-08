@@ -71,7 +71,8 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - 🔧 CCST - Cisco Certified Support Technician
 - 🕵️ TryHackMe – Jr. Penetration Tester   
 - 🧪 Mastercard – Cybersecurity Simulation  
-- 🛠️ Cisco – IT Essentials & Linux Essentials  
+- 🛠️ A+ Cisco’s Edition (IT Essentials)
+- 💻 Cisco - Linux Essentials  
 - 🧠 arcX – Threat Intelligence 101
 - 🥷 Cisco - Ethical Hacker
 - 👨‍💻 Semicolon Academy – Ethical Hacking Foundation  
