@@ -16,7 +16,7 @@
  
 ## 🔍 Who Am I?
 
-Aspiring Cybersecurity Analyst with CCNA certification and hands-on experience in networking, system troubleshooting, and security tools like Splunk, Wireshark, and Burp Suite. Skilled in building and repairing PCs, simulating enterprise networks, and creating cybersecurity labs and projects.
+
 
 <p align="center">
   <a href="http://0xpynge.github.io/Portfolio" target="_blank">
