@@ -84,12 +84,12 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <a href="https://tryhackme.com/p/0xpynge" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpynge.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpynge.png" alt="Your Badge" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpynge.png" alt="Your Badge" />
+  
 
 </p>
 
