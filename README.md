@@ -84,7 +84,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <a href="https://tryhackme.com/p/0xpynge" target="_blank">
-    <img src="https://img.shields.io/badge/0xpynge-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
+  
   </a>
 </p>
 
