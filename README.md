@@ -122,6 +122,7 @@ Stay updated with our latest news and updates via WhatsApp!
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
   </p>
-
-![](https://raw.githubusercontent.com/0xpynge/0xpynge/master/profile-summary-card-output/default/0-profile-details.svg)
+<div align="center">
+  <a href="https://github.com/0xpynge">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xpynge&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" alt="0xpynge's Github Statistics" width="48%"/>
 
