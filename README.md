@@ -123,3 +123,5 @@ Stay updated with our latest news and updates via WhatsApp!
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
   </p>
 
+![](https://raw.githubusercontent.com/0xpynge/0xpynge/master/profile-summary-card-output/default/0-profile-details.svg)
+
