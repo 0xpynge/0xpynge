@@ -55,12 +55,12 @@ Developed a phishing simulation page to demonstrate social engineering tactics i
 
 ---
 
-🧩 Multi-Site Enterprise Network Lab – CCNA Level
+🧩 Multi-Site Enterprise Network Lab - CCNA Level
 A full-fledged Cisco Packet Tracer simulation featuring:
-- Enterprise Design & Segmentation – Built a multi-site enterprise network in Cisco Packet Tracer with VLANs for data, servers, VoIP, and management, centralized via VTP; configured dedicated Voice VLANs for IP phones and inter-VLAN routing on multilayer core switches.
-- High Availability & Redundancy – Implemented HSRP virtual gateways, Rapid-PVST for fast STP convergence, BPDU Guard for edge port protection, and LACP EtherChannel between cores for load balancing and fault tolerance.
-- Services & Security – Deployed DHCP with helper addresses for all VLANs, secured access ports with Port Security (max 2 MACs per port), and configured static plus floating static routes for branch connectivity failover.
-- WAN & External Connectivity – Established point-to-point /30 links (10.10.10.0/30 & 11.11.11.0/30) from cores to the edge router, providing WAN access to branches and default routing to the ISP for internet reachability.
+- Enterprise Design & Segmentation - Built a multi-site enterprise network in Cisco Packet Tracer with VLANs for data, servers, VoIP, and management, centralized via VTP; configured dedicated Voice VLANs for IP phones and inter-VLAN routing on multilayer core switches.
+- High Availability & Redundancy - Implemented HSRP virtual gateways, Rapid-PVST for fast STP convergence, BPDU Guard for edge port protection, and LACP EtherChannel between cores for load balancing and fault tolerance.
+- Services & Security - Deployed DHCP with helper addresses for all VLANs, secured access ports with Port Security (max 2 MACs per port), and configured static plus floating static routes for branch connectivity failover.
+- WAN & External Connectivity - Established point-to-point /30 links (10.10.10.0/30 & 11.11.11.0/30) from cores to the edge router, providing WAN access to branches and default routing to the ISP for internet reachability.
 
 🔗 [View on GitHub](https://github.com/0xpynge/ccna-enterprise-lab)
 
