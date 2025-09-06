@@ -74,7 +74,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - 🧪 Mastercard – Cybersecurity Simulation  
 - 🛠️ A+ Cisco’s Edition (IT Essentials)
 - 💻 Cisco - Linux Essentials  
-- 🧠 arcX – Threat Intelligence 101
+- 🧠 arcX - Threat Intelligence 101
 - 🥷 Cisco - Ethical Hacker
 - 👨‍💻 Semicolon Academy – Ethical Hacking Foundation  
 
