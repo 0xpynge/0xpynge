@@ -76,7 +76,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - 💻 Cisco - Linux Essentials  
 - 🧠 arcX - Threat Intelligence 101
 - 🥷 Cisco - Ethical Hacker
-- 👨‍💻 Semicolon Academy – Ethical Hacking Foundation  
+- 👨‍💻 Semicolon Academy - Ethical Hacking Foundation  
 
 ---
 
