@@ -71,9 +71,10 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - 🎓 CCNA - Cisco Certified Network Associate
 - 🔧 CCST - Cisco Certified Support Technician
 - 🧪 CEHPT - Ethical Hacking & Penetration Tester  
-- 🕵️ TryHackMe - Jr. Penetration Tester   
+- 🕵️ TryHackMe - Jr. Penetration Tester
 - 🛠️ A+ Cisco’s Edition (IT Essentials)
-- 💻 Cisco - Linux Essentials  
+- 💻 Cisco - Linux Essentials
+- ⚠️ ICIP - Introduction to Critical Infrastructure Protection    
 - 🧠 arcX - Threat Intelligence 101
 - 🥷 Cisco - Ethical Hacker
 - 👨‍💻 Semicolon Academy - Ethical Hacking Foundation  
