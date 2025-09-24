@@ -70,6 +70,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 - 🎓 CCNA - Cisco Certified Network Associate
 - 🤖 CAPT - Certified Associate Penetration Tester
+- ☁️ ICCA - INE Certified Cloud Associate
 - 🔧 CCST - Cisco Certified Support Technician
 - 🧪 CEHPT - Certified Ethical Hacking & Penetration Tester  
 - 🕵️ TryHackMe - Jr. Penetration Tester
