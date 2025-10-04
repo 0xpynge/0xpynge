@@ -69,8 +69,11 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 ## 📜 Certifications Snapshot
 
 <p align="center">
-  <img src="certs/ccna.png" alt="CCNA" width="130"/>
-  <img src="certs/ccst.png" alt="CCST" width="130"/>
+<p align="center">
+  <img src="certs/ccna.png" alt="CCNA" width="130" style="border:2px solid white;"/>
+  <img src="certs/ccst.png" alt="CCST" width="130" style="border:2px solid white;"/>
+</p>
+
   <img src="certs/icca.png" alt="ICCA" width="130"/>
 </p>
 
