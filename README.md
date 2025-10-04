@@ -68,18 +68,16 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 ## 📜 Certifications Snapshot
 
-- 🎓 CCNA - Cisco Certified Network Associate
-- 🤖 CAPT - Certified Associate Penetration Tester
-- ☁️ ICCA - INE Certified Cloud Associate
-- 🔧 CCST - Cisco Certified Support Technician
-- 🧪 CEHPT - Certified Ethical Hacking & Penetration Tester  
-- 🕵️ TryHackMe - Jr. Penetration Tester
-- 🛠️ A+ Cisco’s Edition (IT Essentials)
-- 💻 Cisco - Linux Essentials
-- ⚠️ ICIP - Introduction to Critical Infrastructure Protection    
-- 🧠 arcX - Threat Intelligence 101
-- 🥷 Cisco - Ethical Hacker
-- 👨‍💻 Semicolon Academy - Ethical Hacking Foundation  
+<p align="center">
+  <img src="certs/ccna.png" alt="CCNA" width="130"/>
+  <img src="certs/ccst.png" alt="CCST" width="130"/>
+  <img src="certs/icca.png" alt="ICCA" width="130"/>
+</p>
+
+<p align="center">
+  <img src="certs/google-cybersec.png" alt="Google Cybersecurity" width="130"/>
+  <img src="certs/A+.png" alt="A+ Cisco Edition" width="130"/>
+</p>
 
 ---
 
