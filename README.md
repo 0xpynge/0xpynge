@@ -76,7 +76,7 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 
 <p align="center">
   <img src="certs/google-cybersec.png" alt="Google Cybersecurity" width="130"/>
-  <img src="certs/A+-cert.png" alt="A+ Cisco Edition" width="130"/>
+  <img src="certs/A+cert.png" alt="A+" width="130"/>
 </p>
 
 
