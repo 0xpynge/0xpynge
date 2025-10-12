@@ -69,16 +69,17 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 ## 📜 Certifications Snapshot  
 
 <p align="center">
+  <img src="certs/ejpt-certification.png" alt="eJPT" width="130"/>
   <img src="certs/ccna-cert.png" alt="CCNA" width="130"/>
-  <img src="certs/ccst-cert.png" alt="CCST" width="130"/>
   <img src="certs/icca-cert.png" alt="ICCA" width="130"/>
 </p>
 
 <p align="center">
+  <img src="certs/ccst-cert.png" alt="CCST" width="130"/>
   <img src="certs/google-cybersec.png" alt="Google Cybersecurity" width="130"/>
   <img src="certs/A+cert.png" alt="A+" width="130"/>
-  <img src="certs/ejpt-certification.png" alt="eJPT" width="130"/>
 </p>
+
 
 
 
