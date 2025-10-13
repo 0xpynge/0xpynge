@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF0000&center=true&width=440&lines=Jr.+Penetration+Tester;Cybersecurity+Enthusiast;Aspiring+Red+Teamer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+
 
 ---
  
