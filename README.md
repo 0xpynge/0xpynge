@@ -17,6 +17,19 @@ Aspiring Cybersecurity Specialist with CCNA and eJPTv2 certifications and hands-
      <img src="https://img.shields.io/badge/Portfolio-Rani Kamaleddine-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
+---
+
+## ✍️ My Cybersecurity Writeups
+
+<p align="center">
+  <a href="https://medium.com/@0xpynge" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20My%20Writeups%20on-Medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
+  </a>
+</p>
+
+<p align="center">
+  🧠 Dive into my cybersecurity writeups, walkthroughs, and red team notes.
+</p>
 
 ## 🧰 My Cyber Arsenal
 
