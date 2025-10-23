@@ -11,14 +11,6 @@
 
 Aspiring Cybersecurity Specialist with CCNA and eJPTv2 certifications and hands-on experience in networking, system troubleshooting, and security tools like Metasploit, Splunk, Wireshark, and Burp Suite. Skilled in building and repairing PCs, simulating enterprise networks, and creating cybersecurity labs and projects. Passionate about continuous learning and advancing in the cybersecurity field.
 
-
-<p align="center">
-  <a href="http://0xpynge.github.io/Portfolio" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-Rani Kamaleddine-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
-  </a>
-</p>
----
-
 ## ✍️ My Cybersecurity Writeups
 
 <p align="center">
