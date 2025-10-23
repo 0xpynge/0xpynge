@@ -19,10 +19,6 @@ Aspiring Cybersecurity Specialist with CCNA and eJPTv2 certifications and hands-
   </a>
 </p>
 
-<p align="center">
-  🧠 Dive into my cybersecurity writeups, walkthroughs, and red team notes.
-</p>
-
 ## 🧰 My Cyber Arsenal
 
 | 🔧 Category | 💻 Tools & Platforms |
