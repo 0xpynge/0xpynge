@@ -9,7 +9,7 @@
  
 ## 🔍 Who Am I?
 
-Aspiring Cybersecurity Specialist with CCNA certification and hands-on experience in networking, system troubleshooting, and security tools like Splunk, Wireshark, and Burp Suite. Skilled in building and repairing PCs, simulating enterprise networks, and creating cybersecurity labs and projects. Passionate about continuous learning and advancing in the cybersecurity field.
+Aspiring Cybersecurity Specialist with CCNA and eJPTv2 certifications and hands-on experience in networking, system troubleshooting, and security tools like Metasploit, Splunk, Wireshark, and Burp Suite. Skilled in building and repairing PCs, simulating enterprise networks, and creating cybersecurity labs and projects. Passionate about continuous learning and advancing in the cybersecurity field.
 
 
 <p align="center">
